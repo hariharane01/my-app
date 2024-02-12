@@ -1,10 +1,10 @@
 import './App.css';
-import CounterFnction from './components/CounterFnction';
+import CounterFunction from './components/CounterFunction';
 
 function App() {
   return (
     <div className="App">
-      <CounterFnction/>
+      <CounterFunction/>
     </div>
   );
 }
